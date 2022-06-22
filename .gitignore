@@ -122,6 +122,7 @@ yarn.lock
 
 
 /*.js
+!/index.js
 *.d.ts
 
 .DS_Store
